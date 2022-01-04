@@ -8,62 +8,58 @@ Member: Nguyễn Hoàng Anh
 ![website-time-line](./Timeline/website-timeline.svg)
 
 ### I. Define
-&#9744; Customer Analysis
+:white_large_square: Customer Analysis
 
-&#9744; Content Strategy
+:white_large_square: Content Strategy
 
-&#9744; Research Competitors
+:white_large_square: Research Competitors
 
-&#9744; Copywriting / Content
+:white_large_square: Copywriting / Content
 
-&#9744; Keyword Research
+:white_large_square: Keyword Research
 
-&#9744; SEO
+:white_large_square: SEO
 
-&#9744; Content review
+:white_large_square: Content review
 
-&#9744; Social Media
+:white_large_square: Social Media
 
 
 ### II. Design
-&#9745; Branding
+:white_check_mark: Branding
 
-&#9744; Wireframes
+:white_large_square: Wireframes
 
-&#9744; Style Guide
+:white_large_square: Style Guide
 
-&#9744; UX / UI
+:white_large_square: UX / UI
 
-&#9744; Mockups
+:white_large_square: Mockups
 
-&#9744; Sub Pages
+:white_large_square: Sub Pages
 
-&#9744; Design Preview
+:white_large_square: Design Preview
 
 ### III. Develope
-&#9744; Current Site Analysis
+:white_large_square: Current Site Analysis
 
-&#9744; Site Map
+:white_large_square: Site Map
 
-&#9745; Local Version
+:white_check_mark: Local Version
 
-&#9745; Hosting
+:white_check_mark: Hosting
 
-&#9744; CMS Set Up
+:white_large_square: CMS Set Up
 
-&#9744; Accessibility
+:white_large_square: Accessibility
 
-&#9744; Build
+:white_large_square: Build
 
-&#9744; Browser Testing
+:white_large_square: Browser Testing
 
-&#9744; Speed Test
+:white_large_square: Speed Test
 
-&#9744; Deploy
-
-| Unchecked | Checked |
-| --------- | ------- |
-| &#9744;   | &#9745; |
+:white_large_square: Deploy
 
 # Website swimlane
 ![website-swim-lane](./Timeline/website-swim-lane.svg)
