@@ -1,16 +1,22 @@
 {
-    "name": "course",
-    "version": "1.0.0",
-    "description": "nothing special",
-    "main": "app.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "franc": "^6.0.0",
-      "langs": "^2.0.0"
-    }
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "nothing special",
+  "main": "app.js",
+  "scripts": {
+    "serve": "webpack serve",
+    "build": "webpack --config build/webpack.dev.conf.js",
+    "test": "some thing wrong, i don't know"
+  },
+  "author": "Hoang Anh",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^7.17.1",
+    "franc": "^6.0.0",
+    "langs": "^2.0.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.3"
   }
-  
+}
